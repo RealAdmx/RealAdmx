@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Enginer <br>I'm working on python project <br>I'm looking for a job <br>
+I'm a Software Enginer <br>I'm working on python project <br>I'm a student in highschool <br>
 
 
 ## 🌐 Socials:
